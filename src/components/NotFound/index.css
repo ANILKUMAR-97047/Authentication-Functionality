@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.not-found-con {
+  text-align: center;
+}
+
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
